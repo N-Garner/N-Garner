@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi, I’m @N-Garner, also known as Nick Garner. I'm a reaserch scientist and PhD student, primarily using R to analyse rodent and human circadian data.
+
 <!--
 **N-Garner/N-Garner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
