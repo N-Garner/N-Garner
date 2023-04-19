@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I’m @N-Garner, also known as Nick Garner. I'm a reaserch scientist and PhD student, primarily using R to analyse rodent and human circadian data.
+I’m @N-Garner, also known as Nick Garner. I'm a reaserch scientist who has done a doctoral degree trying to understand how neurodegenerative diseases affect sleep and the circadian system.
+
+📫 Feel free to reach out to me on LinkedIn or via email. 
 
 <!--
 **N-Garner/N-Garner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+🔭 I’m currently working on unlocking insights into the circadian system through prevously unanalysed data. 
+
 -->
