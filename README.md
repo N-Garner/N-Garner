@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m @N-Garner, also known as Nick Garner. I'm a reaserch scientist who has done a doctoral degree trying to understand how neurodegenerative diseases affect sleep and the circadian system.
+I’m @N-Garner, also known as Nick Garner. I'm a reaserch scientist who has done a doctoral degree trying to understand how neurodegenerative diseases affect sleep and the circadian system. I'm currently working on improving public healthcare services as a health data analyst.
 
 📫 Feel free to reach out to me on LinkedIn or via email. 
 
